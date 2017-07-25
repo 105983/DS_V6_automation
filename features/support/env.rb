@@ -23,7 +23,7 @@ Capybara.default_driver = :selenium
 Capybara.javascript_driver = :selenium
 Capybara.default_max_wait_time = 20
 # Capybara.default_selector = :css
- Capybara.app_host='http://ds-prod-bamboo-1/'
+ Capybara.app_host='http://google.com/'
 #<----------------------End of Function---------------------->
 
 #<----------------------End of Function---------------------->
