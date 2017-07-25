@@ -1,30 +1,279 @@
-Feature: Bamboo Test for cucumber
-
-  Scenario: Launching the google URL[90m # features/Test_bamboo.feature:3[0m
-    [32mGiven I am on the google page[90m    # features/step_definitions/Test_bamboo.rb:1[0m[0m
-
-  Scenario: Finding text "test"[90m # features/Test_bamboo.feature:6[0m
-    [32mGiven Search for text test[90m  # features/step_definitions/Test_bamboo.rb:6[0m[0m
-
-  Scenario: Finding text "wik"[90m # features/Test_bamboo.feature:9[0m
-    [32mGiven Search for text wik[90m  # features/step_definitions/Test_bamboo.rb:10[0m[0m
-
-  Scenario: Finding text "synonums"[90m # features/Test_bamboo.feature:12[0m
-    [31mGiven Search for text synonums[90m  # features/step_definitions/Test_bamboo.rb:14[0m[0m
-[31m      expected to find text "synonymus" in "Sign in AllNewsImagesMapsVideosMore Settings Tools SafeSearch on About 2,89,00,00,000 results (0.52 seconds) Dictionary test1 tɛst/ noun 1. a procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use. \"both countries carried out nuclear tests in May\" synonyms: trial, experiment, pilot study, try-out; More 2. short for Test match. \"the first Test against New Zealand\" verb 1. take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. \"this range has not been tested on animals\" synonyms: try out, trial, carry out trials on, put to the test, put through its paces, experiment with, pilot; More Translations, word origin, and more definitions Feedback Test - Wikipedia https://en.wikipedia.org/wiki/Test Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities; Medical test, to detect, ... Test (assessment) · Medical test · Test (Unix) · Test (wrestler) Find online tests, practice test, and test creation software | Test.com https://www.test.com/ Online tests and testing for certification, practice tests, test making tools, medical testing and more. Duolingo English Test https://englishtest.duolingo.com/ Affordable and convenient language certification from Duolingo. test - Wiktionary https://en.wiktionary.org/wiki/test From Old French test (“an earthen vessel, especially a pot in which metals were tried”), from Latin testum (“the lid of an earthen vessel, an earthen vessel, ... Test Synonyms, Test Antonyms | Thesaurus.com www.thesaurus.com/browse/test Synonyms for test at Thesaurus.com with free online thesaurus, antonyms, and definitions. Dictionary and Word of the Day. Speedtest.net by Ookla - The Global Broadband Speed Test www.speedtest.net/ Test your Internet connection bandwidth to locations around the world with this interactive broadband speed test from Ookla. Test | Definition of Test by Merriam-Webster https://www.merriam-webster.com/dictionary/test Define test: a means of testing: such as — test in a sentence. DIRTY MIND TEST - YouTube ▶ 6:32 https://www.youtube.com/watch?v=FYIJB8hW2go Jun 11, 2017 - Uploaded by SSSniperWolf DIRTY MIND TEST! How dirty is your mind? Leave a Like if you enjoyed! Reacting Playlist ... [PDF]SAT Practice Test #8 | SAT Suite of Assessments – The College Board https://collegereadiness.collegeboard.org/pdf/sat-practice-test-8.pdf Make time to take the practice test. It's one of the best ways to get ready for the SAT. After you've taken the practice test, score it right away at sat.org/scoring. Theory Test Categories - TheoryTest.ie - The official RSA Driver ... www.theorytest.ie/driver-theory-test/test-categories/ The Driver Theory Test is designed to examine a Learner Driver's knowledge of ... These tests can be taken in addition to either the full Bus Theory Test or full ... Searches related to test test definition test meaning test test test 2 test synonym test personality test again fun test 1 2 3 4 5 6 7 8 9 10 Next Chennai, Tamil Nadu - From your Internet address - Use precise location - Learn more Help Send feedback Privacy Terms Use Google.com" (RSpec::Expectations::ExpectationNotMetError)[0m
-[31m      ./features/step_definitions/Test_bamboo.rb:15:in `/^Search for text synonums$/'[0m
-[31m      features/Test_bamboo.feature:13:in `Given Search for text synonums'[0m
-
-  Scenario: Failed test for bamboo[90m # features/Test_bamboo.feature:15[0m
-    [31mGiven Search for text number[90m   # features/step_definitions/Test_bamboo.rb:18[0m[0m
-[31m      expected to find text "258822" in "Sign in AllNewsImagesMapsVideosMore Settings Tools SafeSearch on About 2,89,00,00,000 results (0.52 seconds) Dictionary test1 tɛst/ noun 1. a procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use. \"both countries carried out nuclear tests in May\" synonyms: trial, experiment, pilot study, try-out; More 2. short for Test match. \"the first Test against New Zealand\" verb 1. take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. \"this range has not been tested on animals\" synonyms: try out, trial, carry out trials on, put to the test, put through its paces, experiment with, pilot; More Translations, word origin, and more definitions Feedback Test - Wikipedia https://en.wikipedia.org/wiki/Test Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities; Medical test, to detect, ... Test (assessment) · Medical test · Test (Unix) · Test (wrestler) Find online tests, practice test, and test creation software | Test.com https://www.test.com/ Online tests and testing for certification, practice tests, test making tools, medical testing and more. Duolingo English Test https://englishtest.duolingo.com/ Affordable and convenient language certification from Duolingo. test - Wiktionary https://en.wiktionary.org/wiki/test From Old French test (“an earthen vessel, especially a pot in which metals were tried”), from Latin testum (“the lid of an earthen vessel, an earthen vessel, ... Test Synonyms, Test Antonyms | Thesaurus.com www.thesaurus.com/browse/test Synonyms for test at Thesaurus.com with free online thesaurus, antonyms, and definitions. Dictionary and Word of the Day. Speedtest.net by Ookla - The Global Broadband Speed Test www.speedtest.net/ Test your Internet connection bandwidth to locations around the world with this interactive broadband speed test from Ookla. Test | Definition of Test by Merriam-Webster https://www.merriam-webster.com/dictionary/test Define test: a means of testing: such as — test in a sentence. DIRTY MIND TEST - YouTube ▶ 6:32 https://www.youtube.com/watch?v=FYIJB8hW2go Jun 11, 2017 - Uploaded by SSSniperWolf DIRTY MIND TEST! How dirty is your mind? Leave a Like if you enjoyed! Reacting Playlist ... [PDF]SAT Practice Test #8 | SAT Suite of Assessments – The College Board https://collegereadiness.collegeboard.org/pdf/sat-practice-test-8.pdf Make time to take the practice test. It's one of the best ways to get ready for the SAT. After you've taken the practice test, score it right away at sat.org/scoring. Theory Test Categories - TheoryTest.ie - The official RSA Driver ... www.theorytest.ie/driver-theory-test/test-categories/ The Driver Theory Test is designed to examine a Learner Driver's knowledge of ... These tests can be taken in addition to either the full Bus Theory Test or full ... Searches related to test test definition test meaning test test test 2 test synonym test personality test again fun test 1 2 3 4 5 6 7 8 9 10 Next Chennai, Tamil Nadu - From your Internet address - Use precise location - Learn more Help Send feedback Privacy Terms Use Google.com" (RSpec::Expectations::ExpectationNotMetError)[0m
-[31m      ./features/step_definitions/Test_bamboo.rb:19:in `/^Search for text number$/'[0m
-[31m      features/Test_bamboo.feature:16:in `Given Search for text number'[0m
-
-[31mFailing Scenarios:[0m
-[31mcucumber features/Test_bamboo.feature:12[0m[90m # Scenario: Finding text "synonums"[0m
-[31mcucumber features/Test_bamboo.feature:15[0m[90m # Scenario: Failed test for bamboo[0m
-
-5 scenarios ([31m2 failed[0m, [32m3 passed[0m)
-5 steps ([31m2 failed[0m, [32m3 passed[0m)
-1m19.392s
+[
+  {
+    "uri": "features/Test_bamboo.feature",
+    "id": "bamboo-test-for-cucumber",
+    "keyword": "Feature",
+    "name": "Bamboo Test for cucumber",
+    "description": "",
+    "line": 1,
+    "elements": [
+      {
+        "id": "bamboo-test-for-cucumber;launching-the-google-url",
+        "keyword": "Scenario",
+        "name": "Launching the google URL",
+        "description": "",
+        "line": 3,
+        "type": "scenario",
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 200423
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 82678
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "I am on the google page",
+            "line": 4,
+            "match": {
+              "location": "features/step_definitions/Test_bamboo.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 8292402726
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 132855
+            }
+          }
+        ]
+      },
+      {
+        "id": "bamboo-test-for-cucumber;finding-text-\"test\"",
+        "keyword": "Scenario",
+        "name": "Finding text \"test\"",
+        "description": "",
+        "line": 6,
+        "type": "scenario",
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 98359
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 128579
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Search for text test",
+            "line": 7,
+            "match": {
+              "location": "features/step_definitions/Test_bamboo.rb:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3404464094
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 128863
+            }
+          }
+        ]
+      },
+      {
+        "id": "bamboo-test-for-cucumber;finding-text-\"wik\"",
+        "keyword": "Scenario",
+        "name": "Finding text \"wik\"",
+        "description": "",
+        "line": 9,
+        "type": "scenario",
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 87525
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 102349
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Search for text wik",
+            "line": 10,
+            "match": {
+              "location": "features/step_definitions/Test_bamboo.rb:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3294130409
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 117175
+            }
+          }
+        ]
+      },
+      {
+        "id": "bamboo-test-for-cucumber;finding-text-\"synonums\"",
+        "keyword": "Scenario",
+        "name": "Finding text \"synonums\"",
+        "description": "",
+        "line": 12,
+        "type": "scenario",
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 105771
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 88665
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Search for text synonums",
+            "line": 13,
+            "match": {
+              "location": "features/step_definitions/Test_bamboo.rb:14"
+            },
+            "result": {
+              "status": "failed",
+              "error_message": "expected to find text \"synonymus\" in \"Sign in AllNewsImagesMapsVideosMore Settings Tools SafeSearch on About 2,89,00,00,000 results (0.43 seconds) Dictionary test1 tɛst/ noun 1. a procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use. \\\"both countries carried out nuclear tests in May\\\" synonyms: trial, experiment, pilot study, try-out; More 2. short for Test match. \\\"the first Test against New Zealand\\\" verb 1. take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. \\\"this range has not been tested on animals\\\" synonyms: try out, trial, carry out trials on, put to the test, put through its paces, experiment with, pilot; More Translations, word origin, and more definitions Feedback Test - Wikipedia https://en.wikipedia.org/wiki/Test Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents' knowledge or other abilities; Medical test, to detect, ... Test (assessment) · Medical test · Test (Unix) · Test (wrestler) Find online tests, practice test, and test creation software | Test.com https://www.test.com/ Online tests and testing for certification, practice tests, test making tools, medical testing and more. Duolingo English Test https://englishtest.duolingo.com/ Affordable and convenient language certification from Duolingo. Test Synonyms, Test Antonyms | Thesaurus.com www.thesaurus.com/browse/test Synonyms for test at Thesaurus.com with free online thesaurus, antonyms, and definitions. Dictionary and Word of the Day. test - Wiktionary https://en.wiktionary.org/wiki/test From Old French test (“an earthen vessel, especially a pot in which metals were tried”), from Latin testum (“the lid of an earthen vessel, an earthen vessel, ... Test | Definition of Test by Merriam-Webster https://www.merriam-webster.com/dictionary/test Define test: a means of testing: such as — test in a sentence. Speedtest.net by Ookla - The Global Broadband Speed Test www.speedtest.net/ Test your Internet connection bandwidth to locations around the world with this interactive broadband speed test from Ookla. DIRTY MIND TEST - YouTube ▶ 6:32 https://www.youtube.com/watch?v=FYIJB8hW2go Jun 11, 2017 - Uploaded by SSSniperWolf DIRTY MIND TEST! How dirty is your mind? Leave a Like if you enjoyed! Reacting Playlist ... Test - Investopedia www.investopedia.com/terms/t/test.asp If the stock stays within the support and resistance levels, the test is passed. However, if the stock price reaches new lows and/or new highs, the test has failed. [PDF]SAT Practice Test #8 | SAT Suite of Assessments – The College Board https://collegereadiness.collegeboard.org/pdf/sat-practice-test-8.pdf Make time to take the practice test. It's one of the best ways to get ready for the SAT. After you've taken the practice test, score it right away at sat.org/scoring. Searches related to test test definition test meaning test test test 2 test synonym test personality fun test test again 1 2 3 4 5 6 7 8 9 10 Next Chennai, Tamil Nadu - From your Internet address - Use precise location - Learn more Help Send feedback Privacy Terms Use Google.com\" (RSpec::Expectations::ExpectationNotMetError)\n./features/step_definitions/Test_bamboo.rb:15:in `/^Search for text synonums$/'\nfeatures/Test_bamboo.feature:13:in `Given Search for text synonums'",
+              "duration": 20490375862
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 151101
+            }
+          }
+        ]
+      },
+      {
+        "id": "bamboo-test-for-cucumber;failed-test-for-bamboo",
+        "keyword": "Scenario",
+        "name": "Failed test for bamboo",
+        "description": "",
+        "line": 15,
+        "type": "scenario",
+        "before": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 102635
+            }
+          },
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 77261
+            }
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Given ",
+            "name": "Search for text number",
+            "line": 16,
+            "match": {
+              "location": "features/step_definitions/Test_bamboo.rb:18"
+            },
+            "result": {
+              "status": "failed",
+              "error_message": "Unable to find elements on closed window (Selenium::WebDriver::Error::NoSuchWindowError)\n./features/step_definitions/Test_bamboo.rb:19:in `/^Search for text number$/'\nfeatures/Test_bamboo.feature:16:in `Given Search for text number'",
+              "duration": 3225762896
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "capybara-2.8.1/lib/capybara/cucumber.rb:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 108336
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
