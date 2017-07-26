@@ -14,6 +14,14 @@ When (/^Search for text synonums$/) do
   expect(page).to have_content ('synonymus')
 end
 
+When (/^Search for text test$/) do
+  expect(page).to have_content ('test')
+end
+
+When (/^Search for text wik$/) do
+  expect(page).to have_content ('wik')
+end
+
 When (/^Search for text number$/) do
   expect(page).to have_content ('258822')
 end
